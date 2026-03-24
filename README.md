@@ -32,5 +32,5 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente estou em
 ---
 
 📫 Contato
-- LinkedIn: linkedin.com/in/leandrocruzsouza
+- LinkedIn: www.linkedin.com/in/leandro-cruz-8b1811295
 - Email: leandrocruzsousa187@gmail.com
